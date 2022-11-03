@@ -1,3 +1,5 @@
+package hiloscuentavocales;
+
 public class Marcador {
 
     private int vocalesTotales;
